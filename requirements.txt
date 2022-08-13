@@ -1,0 +1,5 @@
+shazamio==0.2.0.0
+scipy==1.9.0
+sounddevice==0.4.4
+wavio==0.0.4
+
