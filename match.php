@@ -9,7 +9,7 @@ if ($result) {
     
  
 
-$res = exec("python3 ./app.py $target_file.wav");
+$res = exec("python3 ./app.py $target_file.wav 2>&1");
  
 echo $res;
 
